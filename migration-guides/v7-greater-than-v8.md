@@ -30,7 +30,7 @@ by
 
 and
 
-`src/keycloak-theme/account/Template.css`
+`src/keycloak-theme/account/Template.tsx`
 
 ```ts
 url,
